@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chakir-eportfolio/static/css/main.498d002a.chunk.css",
+    "main.js": "/chakir-eportfolio/static/js/main.ed0bd9a2.chunk.js",
+    "main.js.map": "/chakir-eportfolio/static/js/main.ed0bd9a2.chunk.js.map",
+    "runtime~main.js": "/chakir-eportfolio/static/js/runtime~main.5610e463.js",
+    "runtime~main.js.map": "/chakir-eportfolio/static/js/runtime~main.5610e463.js.map",
+    "static/js/2.6378059b.chunk.js": "/chakir-eportfolio/static/js/2.6378059b.chunk.js",
+    "static/js/2.6378059b.chunk.js.map": "/chakir-eportfolio/static/js/2.6378059b.chunk.js.map",
+    "index.html": "/chakir-eportfolio/index.html",
+    "precache-manifest.3a8add7c2e1ef3de71169c6cc392cfed.js": "/chakir-eportfolio/precache-manifest.3a8add7c2e1ef3de71169c6cc392cfed.js",
+    "service-worker.js": "/chakir-eportfolio/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/chakir-eportfolio/static/css/main.498d002a.chunk.css.map",
+    "static/media/profile.jpg": "/chakir-eportfolio/static/media/profile.79bd0e50.jpg"
+  }
+}
